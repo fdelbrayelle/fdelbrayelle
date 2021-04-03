@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <a href="https://github.com/fdelbrayelle">
   <img align="left" alt="François Delbrayelle's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
