@@ -15,7 +15,7 @@
 
 <br />
 
-### I am François Delbrayelle
+### I'm François Delbrayelle !
 
 - 🔭 I’m currently working on [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/) and a new [genealogy project](https://github.com/fdelbrayelle/genealogy/)
 - 🌱 I’m currently learning **Kotlin** (with **Arrow**) and **hexagonal architecture** on my mission
