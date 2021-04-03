@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [DM on Twitter](https://twitter.com/fdelbrayelle)
 - ⚡ Fun facts: I've been 3 times in Japan and I'm learning georgian language 🇬🇪 and playing cello 🎻
+
+[![fdelbrayelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdelbrayelle)](https://github.com/anuraghazra/github-readme-stats)
