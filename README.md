@@ -21,5 +21,5 @@
 - 🌱 I’m getting better in **Kafka**, **Kotlin** (with **Arrow**) and **hexagonal architecture** on my mission
 - ⛓️ I’m looking to explore **Blockchain**
 - 💬 Ask me about my skills
-- 📫 How to reach me: by [DM on Twitter](https://twitter.com/fdelbrayelle)
+- 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
