@@ -23,3 +23,11 @@
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
+
+### My talks
+
+- [Java 8 and after](https://github.com/fdelbrayelle/midi-tech-java-news)
+- [JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster)
+- [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)
+- [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)
+- [Micronaut and Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)
