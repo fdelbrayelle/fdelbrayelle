@@ -11,14 +11,14 @@
   <img align="left" alt="François Delbrayelle's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
+<img alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
 
 <br />
 
 ### I'm François Delbrayelle !
 
-- 🔭 I’m currently working on [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/)
-- 🌱 I’m getting better in **Kafka**, **Kotlin** (with **Arrow**) and **hexagonal architecture** on my mission
+- 🔭 I’m leading [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/)
+- 🌱 I’m working with **Kafka**, **Kotlin** (with **Arrow**) and **hexagonal architecture** on my current mission
 - 🔍 I’m exploring **Blockchain**, **Go** and **IoT**
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
