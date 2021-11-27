@@ -19,7 +19,7 @@
 
 - 🔭 I’m leading [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/)
 - 🌱 I’m working with **Kafka**, **Kotlin** (with **Arrow**) and **hexagonal architecture** on my current mission
-- 🔍 I’m exploring **Blockchain**, **Go** and **IoT**
+- 🔍 I’m exploring **Blockchain**, **machine learning**, **Go** and **IoT**
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
