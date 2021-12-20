@@ -11,8 +11,6 @@
   <img align="left" alt="François Delbrayelle's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<img alt="GIF" align="right" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
-
 <br />
 
 ## I'm François Delbrayelle !
@@ -38,3 +36,7 @@
 - [Kafka et JHipster ? C'est possible !](https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/)
 - [Créer un module JHipster : une façon de contribuer à l’open source](https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/)
 - [Liquibase dans un init container sur GCP](https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/)
+
+<br />
+
+<img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
