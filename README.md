@@ -25,19 +25,25 @@
 <table>
   <tr>
     <td>
+      <p>
 ## Talks I have given
+
 - [Java 8 and after](https://github.com/fdelbrayelle/midi-tech-java-news)
 - [JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster)
 - [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)
 - [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)
 - [Micronaut and Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)
+      </p>
     </td>
     <td>
+      <p>
 ## Blog posts I have written
+
 - [WebStories Lille 2021](https://blog.ippon.fr/2021/02/26/webstories-lille-2021/)
 - [Kafka et JHipster ? C'est possible !](https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/)
 - [Créer un module JHipster : une façon de contribuer à l’open source](https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/)
 - [Liquibase dans un init container sur GCP](https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/)
+      </p>
     </td>
   </tr>
 </table>
