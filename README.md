@@ -24,6 +24,7 @@
 
 ## Talks I have given
 
+- [REST, gRPC, GraphQL, Webhooks: in what situations?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)
 - [Java 8 and after](https://github.com/fdelbrayelle/midi-tech-java-news)
 - [JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster)
 - [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)
