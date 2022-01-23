@@ -24,6 +24,7 @@
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
+<div>
 <p style="float: left">
 HERE
 </p>
@@ -31,3 +32,4 @@ HERE
 <p>
 THERE
 </p>
+</div>
