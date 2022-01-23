@@ -22,6 +22,8 @@
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
+<img float="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
+
 ## Talks I have given
 
 - [REST, gRPC, GraphQL, Webhooks: in what situations?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)
@@ -40,4 +42,4 @@
 
 <br />
 
-<img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
+<img float="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
