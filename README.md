@@ -31,7 +31,7 @@
 - [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)
 - [Micronaut and Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)
 
-## Blog posts I have written
+## Posts I have written
 
 - [WebStories Lille 2021](https://blog.ippon.fr/2021/02/26/webstories-lille-2021/)
 - [Kafka et JHipster ? C'est possible !](https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/)
