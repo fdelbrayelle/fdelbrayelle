@@ -24,7 +24,7 @@
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
-## Talks I have given
+<h2>Talks I have given</h2>
 
 - [REST, gRPC, GraphQL, Webhooks: in what situations?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)
 - [Java 8 and after](https://github.com/fdelbrayelle/midi-tech-java-news)
