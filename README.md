@@ -24,10 +24,10 @@
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
-<p>
+<p style="float: left">
 HERE
 </p>
 
-<p style="float: right">
+<p>
 THERE
 </p>
