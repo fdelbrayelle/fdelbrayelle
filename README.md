@@ -25,11 +25,11 @@
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
 <div>
-<p style="float: left">
+<p>
 HERE
 </p>
 
-<p>
+<p style="float: right">
 THERE
 </p>
 </div>
