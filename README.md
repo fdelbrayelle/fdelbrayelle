@@ -23,9 +23,9 @@
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 
-<table style="border: none">
-  <tr style="border: none">
-    <td style="border: none">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top;">
       <h2>Talks I have given</h2>
       <ul>
         <li>[REST, gRPC, GraphQL, Webhooks: in what situations?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)</li>
@@ -36,7 +36,7 @@
         <li>[Micronaut and Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)</li>
       </ul>
     </td>
-    <td style="border: none">
+    <td style="border: none; vertical-align: top;">
       <h2>Posts I have written</h2>
       <ul>
         <li>[WebStories Lille 2021](https://blog.ippon.fr/2021/02/26/webstories-lille-2021/)</li>
