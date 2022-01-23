@@ -22,7 +22,7 @@
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
-<img float="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
+<img style="float:right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
 
 ## Talks I have given
 
@@ -39,7 +39,3 @@
 - [Kafka et JHipster ? C'est possible !](https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/)
 - [Créer un module JHipster : une façon de contribuer à l’open source](https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/)
 - [Liquibase dans un init container sur GCP](https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/)
-
-<br />
-
-<img float="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
