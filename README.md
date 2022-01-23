@@ -25,11 +25,9 @@
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
 <p>
-<h2>Talks I have given</h2>
 HERE
 </p>
 
 <p style="float: right">
-<h2>Posts I have written</h2>
 THERE
 </p>
