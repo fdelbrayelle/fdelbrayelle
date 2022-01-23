@@ -23,9 +23,9 @@
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 
-<table style="border: none;" valign="top">
+<table style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;">
+    <td style="border: none;" valign="top">
       <h2>Talks I have given</h2>
       <ul>
         <li><a href="https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks">REST, gRPC, GraphQL, Webhooks: in what situations?</a></li>
@@ -36,7 +36,7 @@
         <li><a href="https://github.com/fdelbrayelle/midi-tech-java-news">Java 8 and after</a></li>
       </ul>
     </td>
-    <td style="border: none; vertical-align: top;">
+    <td style="border: none;"  valign="top">
       <h2>Posts I have written</h2>
       <ul>
         <li><a href="https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/">Liquibase dans un init container sur GCP</a></li>
