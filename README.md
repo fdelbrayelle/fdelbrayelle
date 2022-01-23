@@ -24,6 +24,8 @@
 
 <img align="right" alt="François Delbrayelle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
 
+<br />
+
 ## Talks I have given
 
 - [REST, gRPC, GraphQL, Webhooks: in what situations?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)
