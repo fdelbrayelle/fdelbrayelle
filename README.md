@@ -22,11 +22,28 @@
 - 🔍 I keep watch on the following topics: **Blockchain**, **machine learning** and **Go** (learning it through [Advent of Code 2021](https://github.com/fdelbrayelle/adventofcode/tree/main/2021))
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
-- ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
-<table style="border: 0">
+<table style="border: none">
   <tr>
-    <td>HERE</td>
-    <td>THERE</td>
+    <td>
+      <h2>Talks I have given</h2>
+      <ul>
+        <li>[REST, gRPC, GraphQL, Webhooks: in what situations?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)</li>
+        <li>[Java 8 and after](https://github.com/fdelbrayelle/midi-tech-java-news)</li>
+        <li>[JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster)</li>
+        <li>[Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)</li>
+        <li>[Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)</li>
+        <li>[Micronaut and Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)</li>
+      </ul>
+    </td>
+    <td>
+      <h2>Posts I have written</h2>
+      <ul>
+        <li>[WebStories Lille 2021](https://blog.ippon.fr/2021/02/26/webstories-lille-2021/)</li>
+        <li>[Kafka et JHipster ? C'est possible !](https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/)</li>
+        <li>[Créer un module JHipster : une façon de contribuer à l’open source](https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/)</li>
+        <li>[Liquibase dans un init container sur GCP](https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/)</li>
+      </ul>
+    </td>
   </tr>
 </table>
