@@ -11,18 +11,21 @@
   <img align="left" alt="François Delbrayelle's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<img style="float:right" alt="François Delbrayelle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
-
 <br />
 
 ## I'm François Delbrayelle !
 
+<p>
 - 🚀 I’m working among others with **Kafka**, **Kotlin** (with **Arrow**), **hexagonal architecture** and **Google Cloud Platform** on my mission
 - 🔭 I’m contributing to open-source: [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/), [JHipster](https://github.com/fdelbrayelle/generator-jhipster) and [JHipster Lite](https://github.com/fdelbrayelle/jhipster-lite)
 - 🔍 I keep watch on the following topics: **Blockchain**, **machine learning** and **Go** (learning it through [Advent of Code 2021](https://github.com/fdelbrayelle/adventofcode/tree/main/2021))
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
+</p>
+
+<img style="float:right" alt="François Delbrayelle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
+
 
 ## Talks I have given
 
