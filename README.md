@@ -24,8 +24,8 @@
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 
 <table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: top;">
+  <tr style="border: none; vertical-align: top;">
+    <td style="border: none;">
       <h2>Talks I have given</h2>
       <ul>
         <li><a href="https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks">REST, gRPC, GraphQL, Webhooks: in what situations?</a></li>
