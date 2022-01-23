@@ -29,7 +29,7 @@
 HERE
 </p>
 
-<p align="right">
+<p style="float: right">
 <h2>Posts I have written</h2>
 THERE
 </p>
