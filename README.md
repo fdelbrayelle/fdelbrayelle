@@ -23,7 +23,7 @@
 - 💬 Ask me about my skills
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 
-<table style="border: none;" valign="center">
+<table style="border: none;" valign="top">
   <tr style="border: none;">
     <td style="border: none;">
       <h2>Talks I have given</h2>
