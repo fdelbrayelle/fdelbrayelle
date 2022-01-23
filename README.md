@@ -22,9 +22,7 @@
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - ⚡ Fun facts: I've been 3 times in Japan 🇯🇵, I'm learning georgian language 🇬🇪 and playing cello 🎻
 
-<p>
-  <img style="float:right" alt="François Delbrayelle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
-</p>
+<img align="right" alt="François Delbrayelle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
 
 ## Talks I have given
 
