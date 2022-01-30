@@ -19,7 +19,7 @@
 
 - 🚀 I’m working among others with **Kafka**, **Kotlin** (with **Arrow**), **hexagonal architecture** and **Google Cloud Platform** on my mission
 - 🔭 I’m contributing to open-source: [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/), [JHipster](https://github.com/fdelbrayelle/generator-jhipster) and [JHipster Lite](https://github.com/fdelbrayelle/jhipster-lite)
-- 🔍 I'm learning on the following topics: **Blockchain**, **machine learning** and **Go** (learning it through [Advent of Code 2021](https://github.com/fdelbrayelle/adventofcode/tree/main/2021))
+- 🔍 I'm learning on the following topics: **blockchain**, **machine learning** and **Go** (learning it through [Advent of Code 2021](https://github.com/fdelbrayelle/adventofcode/tree/main/2021))
 - 💬 Ask me about my skills!
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 
