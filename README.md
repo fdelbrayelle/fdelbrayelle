@@ -28,6 +28,7 @@
     <td style="border: none;" valign="top">
       <h2>Talks I have given</h2>
       <ul>
+        <li><a href="https://github.com/fdelbrayelle/test-nua.ge">Testing nua.ge IaaS offer</a></li>
         <li><a href="https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks">REST, gRPC, GraphQL, Webhooks: in what situations?</a></li>
         <li><a href="https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus">Micronaut and Quarkus</a></li>
         <li><a href="https://github.com/fdelbrayelle/midi-tech-k8s">Kubernetes</a></li>
