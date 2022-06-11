@@ -28,6 +28,7 @@
     <td style="border: none;" valign="top">
       <h2>Talks I have given</h2>
       <ul>
+        <li><a href="https://github.com/fdelbrayelle/talk-gdpr-for-developers/">GDPR for Developers</a></li>
         <li><a href="https://github.com/fdelbrayelle/test-nua.ge">Testing nua.ge IaaS offer</a></li>
         <li><a href="https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks">REST, gRPC, GraphQL, Webhooks: in what situations?</a></li>
         <li><a href="https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus">Micronaut and Quarkus</a></li>
@@ -40,6 +41,7 @@
     <td style="border: none;"  valign="top">
       <h2>Posts I have written</h2>
       <ul>
+        <li><a href="https://welovedevs.com/fr/articles/comment-ameliorer-lexperience-du-developpeur-devx/">Comment améliorer l'expérience du développeur (DevX) ?</a></li>
         <li><a href="https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/">Liquibase dans un init container sur GCP</a></li>
         <li><a href="https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/">Créer un module JHipster : une façon de contribuer à l’open source</a></li>
         <li><a href="https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/">Kafka et JHipster ? C'est possible !</a></li>
