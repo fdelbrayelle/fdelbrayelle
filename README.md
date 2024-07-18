@@ -22,6 +22,7 @@
 - 🔍 I'm learning on the following topics: **blockchain**, **machine learning** and **Go** (learning it through [Advent of Code 2021](https://github.com/fdelbrayelle/adventofcode/tree/main/2021))
 - 💬 Ask me about my skills!
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
+- 👨‍💻 [GitLab](https://gitlab.com/fdelbrayelle) with private contributions
 
 <table style="border: none;">
   <tr style="border: none;">
