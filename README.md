@@ -17,9 +17,9 @@
 
 <img align="right" alt="François Delbrayelle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
 
-- 🚀 I’m working among others with **Kafka**, **Kotlin** (with **Arrow**), **hexagonal architecture** and **Google Cloud Platform** on my mission
-- 🔭 I’m contributing to open-source: [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/), [JHipster](https://github.com/fdelbrayelle/generator-jhipster) and [JHipster Lite](https://github.com/fdelbrayelle/jhipster-lite)
-- 🔍 I'm learning on the following topics: **blockchain**, **machine learning** and **Go** (learning it through [Advent of Code 2021](https://github.com/fdelbrayelle/adventofcode/tree/main/2021))
+- 🚀 I’m working among others with **Java**, **Kotlin** (with **Arrow**), **Kafka** and **Google Cloud Platform**
+- 🔭 I’m contributing to open-source: [Kestra](https://github.com/kestra-io/kestra/), [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/), [JHipster](https://github.com/fdelbrayelle/generator-jhipster) and [JHipster Lite](https://github.com/fdelbrayelle/jhipster-lite)
+- 🔍 I'm learning on the following topics: **data**, **machine learning**, **Python** and **Go** (started to learn it through [Advent of Code 2021](https://github.com/fdelbrayelle/adventofcode/tree/main/2021))
 - 💬 Ask me about my skills!
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - 👨‍💻 [GitLab](https://gitlab.com/fdelbrayelle) with private contributions
