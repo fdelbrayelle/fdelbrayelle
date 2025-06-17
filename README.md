@@ -13,9 +13,16 @@
 
 <br />
 
-## I'm François Delbrayelle !
+## I'm François !
 
-<img align="right" alt="François Delbrayelle's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&show_icons=true&count_private=true" />
+<p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&theme=dracula&hide_title=true&disable_animations=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdelbrayelle&theme=dracula&layout=compact" />
+</a>
+</p>
 
 - 🚀 I’m working among others with **Java**, **Kotlin** (with **Arrow**), **Kafka** and **Google Cloud Platform**
 - 🔭 I’m contributing to open-source: [Kestra](https://github.com/kestra-io/kestra/), [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/), [JHipster](https://github.com/fdelbrayelle/generator-jhipster) and [JHipster Lite](https://github.com/fdelbrayelle/jhipster-lite)
