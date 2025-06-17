@@ -1,18 +1,5 @@
 # Hi there 👋
 
-<a href="https://github.com/fdelbrayelle">
-  <img align="left" alt="François Delbrayelle's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/fdelbrayelle/">
-  <img align="left" alt="François Delbrayelle
-                         's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/fdelbrayelle">
-  <img align="left" alt="François Delbrayelle's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<br />
-
 ## I'm François !
 
 <p>
