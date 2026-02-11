@@ -18,13 +18,13 @@ jobs:
           config_theme: dracula
           config_padding: 0, 8%
 
-      # Deuxième carte : Langages + Système de Rangs (Achievements)
+      # Deuxième carte : Langages + Achievements
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-stats.svg
           template: classic
-          base: "" # On vide la base pour ne garder que les plugins ci-dessous
+          base: "" 
           
           # Section Langages
           plugin_languages: yes
@@ -33,11 +33,14 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           
-          # Section Ranking (Achievements)
+          # Section Achievements (Modifiée)
           plugin_achievements: yes
-          plugin_achievements_threshold: B # Affiche uniquement les grades sérieux
-          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          plugin_achievements_display: compact # Garde l'affichage compact pour gagner de la place
+          plugin_achievements_limit: 10        # Limite le nombre d'icônes pour éviter de déborder
           
-          # Design et Fix pour l'affichage coupé
+          # Paramètres de rendu (Ajouts pour corriger la coupe)
           config_theme: dracula
           config_padding: 0, 10%
+          config_output: svg        # Force le format SVG
+          config_order: languages, achievements # Définit explicitement l'ordre
