@@ -2,13 +2,13 @@
 
 ## I'm François !
 
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdelbrayelle&theme=dracula&hide_title=true&disable_animations=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdelbrayelle&theme=dracula&layout=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
+    <img height="180" src="https://readme-stats-fast.vercel.app/api?username=fdelbrayelle&theme=dracula&hide_title=true&disable_animations=true&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/lowlighter/metrics">
+    <img height="180" src="https://metrics.lecoq.io/fdelbrayelle?base=0&base.languages=1&base.languages.sections=most-used&base.languages.indepth=true&theme=dracula" />
+  </a>
 </p>
 
 - 🚀 I’m working among others with **Java**, **Kotlin**, **Google Cloud Platform** and distributed systems
