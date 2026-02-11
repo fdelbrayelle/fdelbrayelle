@@ -3,12 +3,8 @@
 ## I'm François !
 
 <p align="center">
-  <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img height="180" src="https://readme-stats-fast.vercel.app/api?username=fdelbrayelle&theme=dracula&hide_title=true&disable_animations=true&show_icons=true&count_private=true" />
-  </a>
-  <a href="https://github.com/lowlighter/metrics">
-    <img height="180" src="https://metrics.lecoq.io/fdelbrayelle?base=0&base.languages=1&base.languages.sections=most-used&base.languages.indepth=true&theme=dracula" />
-  </a>
+  <img src="https://github.com/fdelbrayelle/fdelbrayelle/blob/main/github-metrics.svg" alt="GitHub Metrics" width="48%" />
+  <img src="https://github.com/fdelbrayelle/fdelbrayelle/blob/main/github-stats.svg" alt="GitHub Stats" width="48%" />
 </p>
 
 - 🚀 I’m working among others with **Java**, **Kotlin**, **Google Cloud Platform** and distributed systems
