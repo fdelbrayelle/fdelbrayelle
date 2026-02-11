@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs every night
+  workflow_dispatch: # Allows manual run
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+          theme: dracula
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-stats.svg
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          theme: dracula
