@@ -1,26 +1,43 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs every night
-  workflow_dispatch: # Allows manual run
+  schedule: [{cron: "0 0 * * *"}] # Mise à jour chaque nuit
+  workflow_dispatch: # Permet de lancer manuellement
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      # Première carte : En-tête et Infos Générales
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_timezone: Europe/Paris
-          theme: dracula
+          config_theme: dracula
+          config_padding: 0, 8%
 
+      # Deuxième carte : Langages + Système de Rangs (Achievements)
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-stats.svg
           template: classic
-          base: ""
+          base: "" # On vide la base pour ne garder que les plugins ci-dessous
+          
+          # Section Langages
           plugin_languages: yes
           plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
           plugin_languages_details: percentage
-          theme: dracula
+          plugin_languages_limit: 8
+          
+          # Section Ranking (Achievements)
+          plugin_achievements: yes
+          plugin_achievements_threshold: B # Affiche uniquement les grades sérieux
+          plugin_achievements_display: compact
+          
+          # Design et Fix pour l'affichage coupé
+          config_theme: dracula
+          config_padding: 0, 10%
