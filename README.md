@@ -35,6 +35,7 @@
   <div>
     <h2>✍️ Posts I have written</h2>
     <ul>
+      <li>🤖 <a href="https://kestra.io/blogs/kestra-mcp-docs">Kestra MCP: Live Documentation Access for AI Coding Agents</a></li>
       <li>🤖 <a href="https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints">Kestra MCP: A Live Plugin and Blueprint Catalog for AI Coding Agents</a></li>
       <li>🔌 <a href="https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins">How Kestra Ships 1300+ Plugins (Using Kestra)</a></li>
       <li>🖥️ <a href="https://kestra.io/blogs/control-vmware-with-kestra">Orchestrate VMware Without the Legacy Automation Layer</a></li>
