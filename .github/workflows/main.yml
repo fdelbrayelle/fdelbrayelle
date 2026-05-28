@@ -33,13 +33,13 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 8
 
-          # Section Achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 10
+          # Section Activité récente
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
 
           # Paramètres de rendu
           config_padding: 0, 10%
           config_output: svg
-          config_order: languages, achievements
+          config_order: languages, activity
