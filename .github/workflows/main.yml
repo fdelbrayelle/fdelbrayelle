@@ -9,7 +9,7 @@ jobs:
       contents: write
     steps:
       # Première carte : En-tête et Infos Générales
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
@@ -19,28 +19,29 @@ jobs:
           config_padding: 0, 8%
 
       # Deuxième carte : Langages + Achievements
-      - uses: lowlighter/metrics@latest
+      # Note: METRICS_TOKEN requires "repo" scope for plugin_languages_indepth
+      - uses: lowlighter/metrics@3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-stats.svg
           template: classic
-          base: "" 
-          
+          base: ""
+
           # Section Langages
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          
-          # Section Achievements (Modifiée)
+
+          # Section Achievements
           plugin_achievements: yes
           plugin_achievements_threshold: B
-          plugin_achievements_display: compact # Garde l'affichage compact pour gagner de la place
-          plugin_achievements_limit: 10        # Limite le nombre d'icônes pour éviter de déborder
-          
-          # Paramètres de rendu (Ajouts pour corriger la coupe)
+          plugin_achievements_display: detailed
+          plugin_achievements_limit: 10
+
+          # Paramètres de rendu
           config_theme: dracula
           config_padding: 0, 10%
-          config_output: svg        # Force le format SVG
-          config_order: languages, achievements # Définit explicitement l'ordre
+          config_output: svg
+          config_order: languages, achievements
