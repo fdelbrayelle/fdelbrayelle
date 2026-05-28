@@ -15,7 +15,6 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories
           config_timezone: Europe/Paris
-          config_theme: dracula
           config_padding: 0, 8%
 
       # Deuxième carte : Langages + Achievements
@@ -41,7 +40,6 @@ jobs:
           plugin_achievements_limit: 10
 
           # Paramètres de rendu
-          config_theme: dracula
           config_padding: 0, 10%
           config_output: svg
           config_order: languages, achievements
