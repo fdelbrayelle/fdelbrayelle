@@ -3,8 +3,8 @@
 ## I'm François !
 
 <p align="center">
-  <img src="https://github.com/fdelbrayelle/fdelbrayelle/blob/main/github-metrics.svg" alt="GitHub Metrics" width="48%" />
-  <img src="https://github.com/fdelbrayelle/fdelbrayelle/blob/main/github-stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="48%" />
+  <img src="./github-stats.svg" alt="GitHub Stats" width="48%" />
 </p>
 
 - 🚀 I'm working among others with **Java**, **Kotlin**, **Google Cloud Platform** and distributed systems
