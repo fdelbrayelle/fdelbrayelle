@@ -17,8 +17,7 @@ jobs:
           config_timezone: Europe/Paris
           config_padding: 0, 8%
 
-      # Deuxième carte : Langages + Achievements
-      # Note: METRICS_TOKEN requires "repo" scope for plugin_languages_indepth
+      # Deuxième carte : Langages + Habitudes
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -26,20 +25,20 @@ jobs:
           template: classic
           base: ""
 
-          # Section Langages
+          # Section Langages (sans indepth : utilise l'API GitHub standard)
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 8
 
-          # Section Activité récente
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          # Section Habitudes de codage
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
 
           # Paramètres de rendu
           config_padding: 0, 10%
           config_output: svg
-          config_order: languages, activity
+          config_order: languages, habits
