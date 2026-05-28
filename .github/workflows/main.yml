@@ -15,7 +15,7 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories
           config_timezone: Europe/Paris
-          config_padding: 8%, 8%
+          config_padding: 30, 8%
 
       # Deuxième carte : Langages + Habitudes
       - uses: lowlighter/metrics@v3.34
@@ -32,5 +32,5 @@ jobs:
           plugin_languages_limit: 6
 
           # Paramètres de rendu
-          config_padding: 8%, 10%
+          config_padding: 30, 10%
           config_output: svg
