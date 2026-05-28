@@ -9,7 +9,7 @@ jobs:
       contents: write
     steps:
       # Première carte : En-tête et Infos Générales
-      - uses: lowlighter/metrics@3.34
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
@@ -20,7 +20,7 @@ jobs:
 
       # Deuxième carte : Langages + Achievements
       # Note: METRICS_TOKEN requires "repo" scope for plugin_languages_indepth
-      - uses: lowlighter/metrics@3.34
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-stats.svg
