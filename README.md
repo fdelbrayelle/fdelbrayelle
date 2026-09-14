@@ -35,6 +35,7 @@
   <div>
     <h2>✍️ Posts I have written</h2>
     <ul>
+      <li>🔌 <a href="https://kestra.io/blogs/kestra-2-0-plugins">Plugins Aren't Just Integrations Anymore</a></li>
       <li>🤖 <a href="https://kestra.io/blogs/plugin-devtools">Plugin Devtools: shell scripts our squad and our agents both run</a></li>
       <li>🤖 <a href="https://kestra.io/blogs/context-engineering-plugins-squad">Context Engineering in Practice: Automating the Plugin SDLC at Kestra</a></li>
       <li>🤖 <a href="https://kestra.io/blogs/kestra-plugins-ai-ecosystem">The Kestra Plugin Ecosystem for AI: From LLM Providers to Vector Databases</a></li>
