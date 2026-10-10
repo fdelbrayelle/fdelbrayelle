@@ -10,6 +10,7 @@
 - 🚀 I'm working among others with **Java**, **Kotlin**, **Google Cloud Platform** and distributed systems
 - 🔭 I'm contributing to open-source: [Kestra](https://github.com/kestra-io/kestra/), [Kafka module for JHipster](https://github.com/fdelbrayelle/generator-jhipster-kafka/), [JHipster](https://github.com/fdelbrayelle/generator-jhipster) and [Seed4J](https://github.com/seed4j/seed4j)
 - 🔍 I'm learning on: **data engineering**, **data science**, **machine learning**, **Python** and **Go** (started with [Advent of Code 2021](https://github.com/fdelbrayelle/adventofcode/tree/main/2021))
+- 🎻 I play the cello, I swim, I walk a lot, I do strength training, I'm a book eater, I'm learning Georgian and I love languages (English, Spanish, Japanese also)
 - 💬 Ask me about my skills!
 - 📫 How to reach me: by [LinkedIn](https://www.linkedin.com/in/fdelbrayelle/)
 - 👨‍💻 [GitLab](https://gitlab.com/fdelbrayelle) with private contributions
